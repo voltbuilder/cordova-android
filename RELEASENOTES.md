@@ -20,6 +20,14 @@
 -->
 ## Release Notes for Cordova (Android)
 
+### 9.1.1 (Jul 23, 2025)
+
+Unofficial VoltBuilder Fork
+
+**Fixes:**
+
+* Change com.g00fy2.versioncompare to io.github.g00fy2.versioncompare
+
 ### 9.1.0 (Apr 09, 2021)
 
 **Features:**
